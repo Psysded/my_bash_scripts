@@ -1,4 +1,6 @@
 #!/bin/bash
 
-sudo systemctl reboot iwctl
-
+killall iwd
+sleep 3
+systemctl enable --now iwd
+echo Finish
