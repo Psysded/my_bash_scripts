@@ -1,16 +1,12 @@
-# Project Name
-The goal of this project is ...
+# Restart Connection
+The goal of this project is to restart iwd process.
 
-#### Dependency
-- 
 
 ## Usage
 ```
-./memcalc_min.sh 340
+./restart-connection
 ```
 ## Result
 ```
-RAM consumed by Discord: 947 MB
-RAM consumed by firefox: 434 MB
-RAM consumed by mariadbd: 352 MB
+Finish
 ```
